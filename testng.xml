@@ -3,9 +3,9 @@
 <suite parallel="tests" name="Suite">
   <test thread-count="5" parallel="tests" name="Test">
     <classes>
-      <class name="com.LfyInsManageDev.testscript.SamClss1test"/>
-      <class name="com.LfyInsManageDev.testscript.SamClss3test"/>
-      <class name="com.LfyInsManageDev.testscript.SamClss2test"/>
+      <class name="com.LfyInsManage.testscript.SamClss1test"/>
+      <class name="com.LfyInsManage.testscript.SamClss3test"/>
+      <class name="com.LfyInsManage.testscript.SamClss2test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

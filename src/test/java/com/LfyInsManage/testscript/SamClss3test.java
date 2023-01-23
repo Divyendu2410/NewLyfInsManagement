@@ -1,4 +1,4 @@
-package com.LfyInsManageDev.testscript;
+package com.LfyInsManage.testscript;
 
 import org.testng.annotations.Test;
 
