@@ -2,18 +2,18 @@ package com.LfyInsManageDev.testscript;
 
 import org.testng.annotations.Test;
 
-public class SamClss1 {
+public class SamClss2test {
 	@Test
-	public void simple1() {
+	public void simple4() {
 		System.out.println("-Am Groot-");
 	}
 
 	@Test
-	public void simple2() {
+	public void simple5() {
 		System.out.println("--Am Am Groot--");
 	}
 	@Test
-	public void simple3() {
+	public void simple6() {
 		System.out.println("--Am Am Groot--");
 	}
 	
